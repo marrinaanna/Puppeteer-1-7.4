@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-1-7.4-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gh.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.4.1",
+    "jest-puppeteer": "^6.2.0",
+    "puppeteer": "^19.6.3"
+  }
+}
